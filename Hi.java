@@ -5,7 +5,7 @@ class Hello
      */
     public void go()
     {
-        System.out.println("Hi Ian and Conner");
+        System.out.println("Hi Ian and Connor");
     }
     
     /**
